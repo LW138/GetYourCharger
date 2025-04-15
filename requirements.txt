@@ -1,0 +1,7 @@
+apache-airflow==2.7.2
+apache-airflow-providers-google==10.4.0
+google-cloud-bigquery==3.11.4
+google-cloud-storage==2.11.0
+pandas==2.1.1
+requests==2.31.0
+pyspark==3.5.0
